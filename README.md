@@ -6,7 +6,7 @@
 ## Description
 Credit Risk Analysis with CSV data
 
-![app_image]("Accuracy_Scores.png")
+![app_image]("Accuracy_Scores")
 
 ## Table of Contents
 - [Installation](#installation)
