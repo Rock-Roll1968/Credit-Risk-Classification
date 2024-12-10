@@ -6,7 +6,7 @@
 ## Description
 Credit Risk Analysis with CSV data
 
-![app_image]("C:\Users\ernes\Homework\20-Credit-Risk-Classification\Credit-Risk-Classification\Credit_Risk\Accuracy_Scores.png")
+![app_image](accuracy_scores.png)
 
 ## Table of Contents
 - [Installation](#installation)
